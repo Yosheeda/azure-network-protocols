@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </br>
 </br>
 <h3 align="center">
-  Set up your virtual environment
+  Setting up your virtual environment
 </h3>
 </br>
 <p>
